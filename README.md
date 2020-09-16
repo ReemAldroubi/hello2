@@ -1,2 +1,3 @@
 # hello2
-second repo
+I am trying to memorize the steps 
+by myself
